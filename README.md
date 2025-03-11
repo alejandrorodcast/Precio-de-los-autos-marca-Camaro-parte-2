@@ -11,4 +11,13 @@ Al realizar el análisis de las variables clave en un problema a resolver es pos
 - Seleccionar las medidas resumen más adecuadas (de tendencia central, dispersión y forma) para describir el comportamiento de una variable. 
 - Construir un resumen ejecutivo que muestre los comportamientos de las variables importantes en el análisis.
 
+<img src="imgs/m1.png">
+<img src="imgs/m2.png">
+<img src="imgs/m3.png">
+<img src="imgs/m4.png">
+<img src="imgs/m5.png">
+
+
+
+
 
